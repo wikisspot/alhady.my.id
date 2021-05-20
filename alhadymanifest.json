@@ -1,0 +1,38 @@
+﻿{
+  "name": "ALhady",
+  "short_name": "ALhady",
+  "start_url": "https://alhady.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1cd8d2",
+  "description": "alhady blog informasi masakini",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s48/favicon%2Balhady.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s72/favicon%2Balhady.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s96/favicon%2Balhady.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s144/favicon%2Balhady.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s168/favicon%2Balhady.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s192/favicon%2Balhady.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c4ZuJoBBYEA/YKX7_HG9-0I/AAAAAAAAAKc/8idubVG6SHIQRMXTQlGzksRLdmAM1AncACNcBGAsYHQ/s512/favicon%2Balhady.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
